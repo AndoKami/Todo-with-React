@@ -1,0 +1,41 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px;
+}
+
+button {
+  margin-left: 5px;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.delete-btn {
+  background-color: #ff4d4d;
+  color: white;
+}
+
+.important-btn {
+  background-color: #ff9900;
+  color: white;
+}
+
+.normal-btn {
+  background-color: #0080ff;
+  color: white;
+}
+
+.low-btn {
+  background-color: #bfbfbf;
+  color: black;
+}
